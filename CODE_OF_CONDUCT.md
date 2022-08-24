@@ -1,5 +1,4 @@
 # Contributor Covenant Code of Conduct
-_Test Edit for Eveline_
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
