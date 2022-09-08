@@ -2,7 +2,7 @@
 
 See the [contributing guidelines](CONTRIBUTING.md) for sharing bug reports in our Open Source projects.
 
-Did you find weak spots in our IT systems? Become a [ABN AMRO Bug Hunter](https://developer.abnamro.com/bug-hunter) and help to secure banking.
+Did you find weak spots in our IT systems? Become a [ABN AMRO Bug Hunter](https://developer.abnamro.com/bug-hunter), report the issue, and help to secure banking.
 
 ### How-to
 
