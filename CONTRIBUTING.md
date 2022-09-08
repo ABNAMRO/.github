@@ -2,7 +2,7 @@
 
 Hi! Let's innovate together! We are entusiastic that you'd like to contribute to our projects. Together we build the future of finance and IT. 
 
-Contributions to this project are released to the public under the project's open source license ([Apache 2.0](https://www.home-assistant.io/blog/2017/01/21/home-assistant-governance/#code-license) for code, [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://www.home-assistant.io/blog/2017/01/21/home-assistant-governance/#documentation-license) for everything else).
+Contributions to this project are released to the public under the project's open source license.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
