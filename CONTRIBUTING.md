@@ -1,4 +1,4 @@
-## Contributing
+# Contributing
 
 Hi! Let's innovate together! We are entusiastic that you'd like to contribute to our projects. Together we build the future of finance and IT. 
 
