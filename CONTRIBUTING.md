@@ -2,7 +2,7 @@
 
 Hi! Let's innovate together! We are entusiastic that you'd like to contribute to our projects. Together we build the future of finance and IT. 
 
-Contributions to this project are released to the public under the project's open source license.
+Contributions to this project are released to the public under the project's open source license (MIT License).
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
