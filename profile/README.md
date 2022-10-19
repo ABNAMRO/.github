@@ -1,4 +1,4 @@
-# ABN AMRO - Open Source
+# ABN AMRO
 ## Let's innovate finance! 
 Use our code to fuel your ideas. What will you build?
 
