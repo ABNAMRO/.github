@@ -1,5 +1,5 @@
 # ABN AMRO
-![alt text](https://github.com/abnamro/.github/blob/main/images/ABN%20AMRO%20Developer%20Portal.jpeg)
+![alt text](https://github.com/abnamro/.github/blob/main/images/ABN%20AMRO%20Make%20A%20Difference.jpeg)
 
 ## Let's innovate finance! 
 Use our code to fuel your ideas. What will you build?
@@ -13,6 +13,3 @@ Use our code to fuel your ideas. What will you build?
 - [ABN AMRO Developer Community](https://developer.abnamro.com/community)
 - [ABN AMRO Open Source](https://developer.abnamro.com/open-source)
 - [Latest news](https://medium.com/abn-amro-developer)
-
-## Join us!
-![alt text](https://github.com/abnamro/.github/blob/main/images/ABN%20AMRO%20Make%20A%20Difference.jpeg)
