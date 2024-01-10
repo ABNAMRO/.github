@@ -1,6 +1,6 @@
 # ABN AMRO
 
-![alt text]([https://github.com/abnamro/.github/blob/main/images/ABN%20AMRO%20Developer%20Portal.png])
+![alt text](https://github.com/abnamro/.github/blob/main/images/ABN%20AMRO%20Developer%20Portal.png)
 
 ## Let's innovate finance! 
 Use our code to fuel your ideas. What will you build?
